@@ -1,0 +1,11 @@
+.text-font-base {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.imgFeed {
+    width: 20rem;
+    height: 13rem;
+}
+body {
+    background-color: lightgray;
+}
